@@ -9,7 +9,18 @@
                 <ControlTemplate TargetType="{x:Type views:LoginContent}">
                     <Border Background="{TemplateBinding Background}"
                             BorderBrush="{TemplateBinding BorderBrush}"
-                            BorderThickness="{TemplateBinding BorderThickness}" />
+                            BorderThickness="{TemplateBinding BorderThickness}">
+                        <StackPanel>
+                            <TextBlock Margin="10"
+                                       FontSize="24"
+                                       Text="Login" />
+                            <Button Margin="10"
+                                    Padding="8,4,8,4"
+                                    HorizontalAlignment="Left"
+                                    Command="{Binding LoginCommand}"
+                                    Content="Login" />
+                        </StackPanel>
+                    </Border>
                 </ControlTemplate>
             </Setter.Value>
         </Setter>

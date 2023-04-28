@@ -1,16 +1,34 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CommunityToolkit.Mvvm.Input;
+using Jamesnet.Wpf.Controls;
+using Jamesnet.Wpf.Mvvm;
+using Prism.Ioc;
+using Prism.Regions;
 
 namespace Kakao.Login.Local.ViewModels
 {
-    public class LoginContentViewModel
+    public partial class LoginContentViewModel : ObservableBase
     {
-        public LoginContentViewModel()
+        private readonly IRegionManager _regionManager;
+        private readonly IContainerProvider _containerProvider;
+
+        public LoginContentViewModel(IRegionManager regionManager, IContainerProvider containerProvider)
         {
-            
+            _regionManager = regionManager;
+            _containerProvider = containerProvider;
+        }
+
+        [RelayCommand]
+        private void Login()
+        {
+            // 어떻게하든 여기에서 LoginContent -> FriendsContent로 바꿔치기 하겠따
+            IRegion mainRegion = _regionManager.Regions["MainRegion"];
+            IViewable friendsContent = _containerProvider.Resolve<IViewable>("FriendsContent");
+
+            if (!mainRegion.Views.Contains(friendsContent))
+            {
+                mainRegion.Add(friendsContent);
+            }
+            mainRegion.Activate(friendsContent);
         }
     }
 }

@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kakao", "Kakao\Kakao.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kakao.Forms", "Kakao.Forms\Kakao.Forms.csproj", "{DB66FD8B-BA8B-440E-BE18-6927E8F33C27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kakao.Login", "Kakao.Login\Kakao.Login.csproj", "{B39C2AFB-5AC4-4D8D-9051-F6557A4813A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kakao.Login", "Kakao.Login\Kakao.Login.csproj", "{B39C2AFB-5AC4-4D8D-9051-F6557A4813A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Studio", "Studio", "{288E1E06-6BFD-457B-961A-02E5E3CC6BED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Partial", "Partial", "{EB7C2F3F-9333-465A-B0FA-9D09F7115FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kakao.Friends", "Kakao.Friends\Kakao.Friends.csproj", "{15825449-6BA0-4838-946A-620F7B2F8495}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{B39C2AFB-5AC4-4D8D-9051-F6557A4813A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B39C2AFB-5AC4-4D8D-9051-F6557A4813A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B39C2AFB-5AC4-4D8D-9051-F6557A4813A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15825449-6BA0-4838-946A-620F7B2F8495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15825449-6BA0-4838-946A-620F7B2F8495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15825449-6BA0-4838-946A-620F7B2F8495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15825449-6BA0-4838-946A-620F7B2F8495}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{A214F9E8-EB05-4DB7-B66C-C3F3BDC7E56D} = {288E1E06-6BFD-457B-961A-02E5E3CC6BED}
 		{DB66FD8B-BA8B-440E-BE18-6927E8F33C27} = {EB7C2F3F-9333-465A-B0FA-9D09F7115FCF}
 		{B39C2AFB-5AC4-4D8D-9051-F6557A4813A6} = {EB7C2F3F-9333-465A-B0FA-9D09F7115FCF}
+		{15825449-6BA0-4838-946A-620F7B2F8495} = {EB7C2F3F-9333-465A-B0FA-9D09F7115FCF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {526684CF-7571-4416-9065-E6A93777EA4A}

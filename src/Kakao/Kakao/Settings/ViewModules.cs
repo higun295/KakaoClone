@@ -1,12 +1,8 @@
 ﻿using Jamesnet.Wpf.Controls;
+using Kakao.Friends.UI.Views;
 using Kakao.Login.UI.Views;
 using Prism.Ioc;
 using Prism.Modularity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Kakao.Settings
 {
@@ -17,6 +13,7 @@ namespace Kakao.Settings
         public void RegisterTypes(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterSingleton<IViewable, LoginContent>("LoginContent");
+            containerRegistry.RegisterSingleton<IViewable, FriendsContent>("FriendsContent");
         }
     }
 }
