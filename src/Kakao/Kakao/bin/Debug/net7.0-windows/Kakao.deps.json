@@ -9,6 +9,7 @@
       "Kakao/1.0.0": {
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0",
           "Kakao.Forms": "1.0.0",
           "Kakao.Friends": "1.0.0",
           "Kakao.Login": "1.0.0"
@@ -111,9 +112,15 @@
           }
         }
       },
+      "Kakao.Core/1.0.0": {
+        "runtime": {
+          "Kakao.Core.dll": {}
+        }
+      },
       "Kakao.Forms/1.0.0": {
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.8"
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Forms.dll": {}
@@ -121,7 +128,8 @@
       },
       "Kakao.Friends/1.0.0": {
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.8"
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Friends.dll": {}
@@ -129,7 +137,8 @@
       },
       "Kakao.Login/1.0.0": {
         "dependencies": {
-          "Jamesnet.Wpf": "1.0.0.8"
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
         },
         "runtime": {
           "Kakao.Login.dll": {}
@@ -219,6 +228,11 @@
       "sha512": "sha512-TF0E7EdjvQZOBC3xTTQ1Va221QRf0PXrlQddSKeKGKzSpXye0ip7KKgHeXogX47ojYuCOwD8K0KIHUENyjdaqg==",
       "path": "wpfautogrid.core/1.5.1",
       "hashPath": "wpfautogrid.core.1.5.1.nupkg.sha512"
+    },
+    "Kakao.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Kakao.Forms/1.0.0": {
       "type": "project",

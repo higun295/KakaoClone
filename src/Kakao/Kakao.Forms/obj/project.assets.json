@@ -170,6 +170,19 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Kakao.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Kakao.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -451,11 +464,17 @@
         "wpfautogrid.core.1.5.1.nupkg.sha512",
         "wpfautogrid.core.nuspec"
       ]
+    },
+    "Kakao.Core/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Core/Kakao.Core.csproj",
+      "msbuildProject": "../Kakao.Core/Kakao.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "Jamesnet.Wpf >= 1.0.0.8"
+      "Jamesnet.Wpf >= 1.0.0.8",
+      "Kakao.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -493,7 +512,11 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+              "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
