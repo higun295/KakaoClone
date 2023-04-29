@@ -42,5 +42,22 @@ namespace Kakao.Main.Local.ViewModels
             }
             contentRegion.Activate(friendsContent);
         }
+        [RelayCommand]
+        private void Chat()
+        {
+            IRegion contentRegion = _regionManager.Regions[RegionNameManager.ContentRegion];
+            IViewable chatsContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Chats);
+
+            if (!contentRegion.Views.Contains(chatsContent))
+            {
+                contentRegion.Add(chatsContent);
+            }
+            contentRegion.Activate(chatsContent);
+        }
+        [RelayCommand]
+        private void More()
+        {
+
+        }
     }
 }

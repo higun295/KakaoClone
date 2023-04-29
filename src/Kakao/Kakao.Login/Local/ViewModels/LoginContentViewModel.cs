@@ -23,13 +23,13 @@ namespace Kakao.Login.Local.ViewModels
         {
             // 어떻게하든 여기에서 LoginContent -> FriendsContent로 바꿔치기 하겠따
             IRegion mainRegion = _regionManager.Regions[RegionNameManager.MainRegion];
-            IViewable friendsContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Friends);
+            IViewable mainContent = _containerProvider.Resolve<IViewable>(ContentNameManager.Main);
 
-            if (!mainRegion.Views.Contains(friendsContent))
+            if (!mainRegion.Views.Contains(mainContent))
             {
-                mainRegion.Add(friendsContent);
+                mainRegion.Add(mainContent);
             }
-            mainRegion.Activate(friendsContent);
+            mainRegion.Activate(mainContent);
         }
     }
 }

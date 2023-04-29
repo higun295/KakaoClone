@@ -15,17 +15,21 @@
                         <james:JamesGrid Columns="Auto, *"
                                          Rows="*, Auto">
                             <StackPanel>
-                                <ListBox>
-                                    <ListBoxItem>Friends</ListBoxItem>
-                                    <ListBoxItem>Chats</ListBoxItem>
-                                    <ListBoxItem>More</ListBoxItem>
-                                </ListBox>
-
+                                <Button Margin="10"
+                                        Padding="8,4,8,4"
+                                        HorizontalAlignment="Left"
+                                        Command="{Binding ChatCommand}"
+                                        Content="Chats" />
                                 <Button Margin="10"
                                         Padding="8,4,8,4"
                                         HorizontalAlignment="Left"
                                         Command="{Binding FriendsCommand}"
                                         Content="Friends" />
+                                <Button Margin="10"
+                                        Padding="8,4,8,4"
+                                        HorizontalAlignment="Left"
+                                        Command="{Binding MoreCommand}"
+                                        Content="More" />
 
                                 <Button Margin="10"
                                         Padding="8,4,8,4"
