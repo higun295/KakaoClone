@@ -16,22 +16,8 @@
                         <james:JamesGrid Columns="Auto, *"
                                          Rows="*, Auto">
                             <StackPanel>
-                                <units:VerticalMenuList ItemsSource="{Binding Menus}" />
-                                <Button Margin="10"
-                                        Padding="8,4,8,4"
-                                        HorizontalAlignment="Left"
-                                        Command="{Binding ChatCommand}"
-                                        Content="Chats" />
-                                <Button Margin="10"
-                                        Padding="8,4,8,4"
-                                        HorizontalAlignment="Left"
-                                        Command="{Binding FriendsCommand}"
-                                        Content="Friends" />
-                                <Button Margin="10"
-                                        Padding="8,4,8,4"
-                                        HorizontalAlignment="Left"
-                                        Command="{Binding MoreCommand}"
-                                        Content="More" />
+                                <units:VerticalMenuList ItemsSource="{Binding Menus}"
+                                                        SelectedItem="{Binding Menu}" />
 
                                 <Button Margin="10"
                                         Padding="8,4,8,4"

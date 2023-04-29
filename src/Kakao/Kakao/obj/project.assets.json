@@ -268,6 +268,23 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Kakao.More/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8",
+          "Kakao.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.More.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.More.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -579,6 +596,11 @@
       "type": "project",
       "path": "../Kakao.Main/Kakao.Main.csproj",
       "msbuildProject": "../Kakao.Main/Kakao.Main.csproj"
+    },
+    "Kakao.More/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.More/Kakao.More.csproj",
+      "msbuildProject": "../Kakao.More/Kakao.More.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -589,7 +611,8 @@
       "Kakao.Forms >= 1.0.0",
       "Kakao.Friends >= 1.0.0",
       "Kakao.Login >= 1.0.0",
-      "Kakao.Main >= 1.0.0"
+      "Kakao.Main >= 1.0.0",
+      "Kakao.More >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -647,6 +670,9 @@
             },
             "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
               "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj"
+            },
+            "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
+              "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj"
             }
           }
         }

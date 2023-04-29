@@ -70,3 +70,5 @@ C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Frie
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Main.pdb
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Chats.dll
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Chats.pdb
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.More.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.More.pdb
