@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\
 Kakao.Friends
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 2-521645242
 
 5-1289031609
-208-350360825
+208395276548
 Themes\Generic.xaml;Themes\Views\FriendsContent.xaml;
 
 True

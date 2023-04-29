@@ -37,3 +37,6 @@ D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Forms\obj\Debug\net7.
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Forms\bin\Debug\net7.0-windows\Kakao.Core.dll
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Forms\bin\Debug\net7.0-windows\Kakao.Core.pdb
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\Kakao.Forms.csproj.CopyComplete
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Forms\bin\Debug\net7.0-windows\Kakao.Core.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Forms\bin\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\Kakao.Forms.csproj.CopyComplete

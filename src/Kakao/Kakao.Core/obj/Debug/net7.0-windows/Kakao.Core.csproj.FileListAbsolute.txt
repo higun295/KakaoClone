@@ -10,3 +10,15 @@ D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\refint\Kakao.Core.dll
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.pdb
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\ref\Kakao.Core.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.deps.json
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.csproj.AssemblyReference.cache
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.AssemblyInfoInputs.cache
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.AssemblyInfo.cs
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.csproj.CoreCompileInputs.cache
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\refint\Kakao.Core.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.pdb
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\ref\Kakao.Core.dll
