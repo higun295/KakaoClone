@@ -1,6 +1,7 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:based="clr-namespace:Kakao.LayoutSupport.UI.Units;assembly=Kakao.LayoutSupport"
+                    xmlns:james="clr-namespace:Jamesnet.Wpf.Controls;assembly=Jamesnet.Wpf"
                     xmlns:views="clr-namespace:Kakao.Login.UI.Views">
 
     <Geometry x:Key="KakaoCI">
@@ -19,9 +20,13 @@
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <StackPanel>
-                            <based:TaskBarButton Tag="Cog" />
-                            <based:TaskBarButton Tag="Minimize" />
-                            <based:TaskBarButton Tag="Close" />
+                            <james:JamesGrid HorizontalAlignment="Right"
+                                             Columns="Auto, Auto, Auto"
+                                             Rows="*">
+                                <based:TaskBarButton Tag="Cog" />
+                                <based:TaskBarButton Tag="Minimize" />
+                                <based:TaskBarButton Tag="Close" />
+                            </james:JamesGrid>
 
                             <Viewbox Width="100"
                                      Height="100">

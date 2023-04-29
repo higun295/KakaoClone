@@ -13,6 +13,9 @@
     </Geometry>
 
     <Style TargetType="{x:Type units:TaskBarButton}">
+        <Setter Property="Margin" Value="10" />
+        <Setter Property="Background" Value="Transparent" />
+        <Setter Property="Foreground" Value="#33423630" />
         <Setter Property="Template">
             <Setter.Value>
                 <ControlTemplate TargetType="{x:Type units:TaskBarButton}">
@@ -23,10 +26,13 @@
                                  Height="12">
                             <Path x:Name="path"
                                   Data="{StaticResource Close}"
-                                  Fill="#33423630" />
+                                  Fill="{TemplateBinding Foreground}" />
                         </Viewbox>
                     </Border>
                     <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Foreground" Value="#66423630" />
+                        </Trigger>
                         <Trigger Property="Tag" Value="Cog">
                             <Setter TargetName="path" Property="Data" Value="{StaticResource Cog}" />
                         </Trigger>
