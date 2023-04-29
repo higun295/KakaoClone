@@ -183,6 +183,19 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Kakao.LayoutSupport/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -469,12 +482,18 @@
       "type": "project",
       "path": "../Kakao.Core/Kakao.Core.csproj",
       "msbuildProject": "../Kakao.Core/Kakao.Core.csproj"
+    },
+    "Kakao.LayoutSupport/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj",
+      "msbuildProject": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.8",
-      "Kakao.Core >= 1.0.0"
+      "Kakao.Core >= 1.0.0",
+      "Kakao.LayoutSupport >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -517,6 +536,9 @@
           "projectReferences": {
             "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
               "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+            },
+            "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj": {
+              "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj"
             }
           }
         }

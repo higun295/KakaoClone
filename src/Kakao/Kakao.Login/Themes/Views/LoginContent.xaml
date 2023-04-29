@@ -1,5 +1,6 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:based="clr-namespace:Kakao.LayoutSupport.UI.Units;assembly=Kakao.LayoutSupport"
                     xmlns:views="clr-namespace:Kakao.Login.UI.Views">
 
     <Geometry x:Key="KakaoCI">
@@ -18,6 +19,10 @@
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <StackPanel>
+                            <based:TaskBarButton Tag="Cog" />
+                            <based:TaskBarButton Tag="Minimize" />
+                            <based:TaskBarButton Tag="Close" />
+
                             <Viewbox Width="100"
                                      Height="100">
                                 <Path Data="{StaticResource KakaoCI}"

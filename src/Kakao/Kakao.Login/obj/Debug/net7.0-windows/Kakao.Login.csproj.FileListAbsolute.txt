@@ -40,3 +40,5 @@ D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Login\obj\Debug\net7.
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Login\bin\Debug\net7.0-windows\Kakao.Core.dll
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Login\bin\Debug\net7.0-windows\Kakao.Core.pdb
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Login\obj\Debug\net7.0-windows\Kakao.Login.csproj.CopyComplete
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Login\bin\Debug\net7.0-windows\Kakao.LayoutSupport.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Login\bin\Debug\net7.0-windows\Kakao.LayoutSupport.pdb

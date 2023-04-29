@@ -235,12 +235,26 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Kakao.LayoutSupport/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Kakao.Login/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Jamesnet.Wpf": "1.0.0.8",
-          "Kakao.Core": "1.0.0"
+          "Kakao.Core": "1.0.0",
+          "Kakao.LayoutSupport": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Kakao.Login.dll": {}
@@ -586,6 +600,11 @@
       "type": "project",
       "path": "../Kakao.Friends/Kakao.Friends.csproj",
       "msbuildProject": "../Kakao.Friends/Kakao.Friends.csproj"
+    },
+    "Kakao.LayoutSupport/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj",
+      "msbuildProject": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj"
     },
     "Kakao.Login/1.0.0": {
       "type": "project",
