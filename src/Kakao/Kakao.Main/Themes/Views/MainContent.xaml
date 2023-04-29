@@ -2,6 +2,7 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:james="clr-namespace:Jamesnet.Wpf.Controls;assembly=Jamesnet.Wpf"
                     xmlns:names="clr-namespace:Kakao.Core.Names;assembly=Kakao.Core"
+                    xmlns:units="clr-namespace:Kakao.Main.UI.Units"
                     xmlns:views="clr-namespace:Kakao.Main.UI.Views">
 
     <Style TargetType="{x:Type views:MainContent}">
@@ -15,6 +16,7 @@
                         <james:JamesGrid Columns="Auto, *"
                                          Rows="*, Auto">
                             <StackPanel>
+                                <units:VerticalMenuList ItemsSource="{Binding Menus}" />
                                 <Button Margin="10"
                                         Padding="8,4,8,4"
                                         HorizontalAlignment="Left"

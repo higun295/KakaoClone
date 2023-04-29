@@ -40,3 +40,5 @@ C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\Kakao
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\refint\Kakao.Main.dll
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\Kakao.Main.pdb
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\ref\Kakao.Main.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\Themes\Units\VerticalMenuList.baml
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Main\obj\Debug\net7.0-windows\Themes\Units\VerticalMenuListItem.baml
