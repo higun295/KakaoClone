@@ -60,3 +60,5 @@ D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-wind
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.pdb
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Core.dll
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Core.pdb
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Main.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Main.pdb
