@@ -20,7 +20,8 @@
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <StackPanel>
-                            <james:JamesGrid HorizontalAlignment="Right"
+                            <james:JamesGrid Margin="10,6,10,6"
+                                             HorizontalAlignment="Right"
                                              Columns="Auto, Auto, Auto"
                                              Rows="*">
                                 <based:TaskBarButton Tag="Cog" />
