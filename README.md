@@ -11,3 +11,4 @@
 2. Pictogrammers
 3. WpfAutoGrid.Core
 4. look and feel
+5. x:Nam="PART_ContentHost"

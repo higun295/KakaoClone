@@ -16,3 +16,4 @@ C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-wind
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Kakao.LayoutSupport.AssemblyInfo.cs
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Kakao.LayoutSupport.csproj.CoreCompileInputs.cache
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\ref\Kakao.LayoutSupport.dll
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\PlaceHolderTextBox.baml

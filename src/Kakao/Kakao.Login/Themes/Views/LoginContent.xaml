@@ -35,6 +35,18 @@
                                       Fill="#423630" />
                             </Viewbox>
 
+                            <Border Margin="50,50,50,50"
+                                    Background="#FFFFFF"
+                                    BorderBrush="#44423630"
+                                    BorderThickness="1"
+                                    CornerRadius="1">
+                                <james:JamesGrid Columns="*"
+                                                 Rows="Auto, Auto">
+                                    <based:PlaceHolderTextBox PlaceHolderText="Email" />
+                                    <based:PlaceHolderTextBox PlaceHolderText="Password" />
+                                </james:JamesGrid>
+                            </Border>
+
                             <Button Margin="10"
                                     Padding="8,4,8,4"
                                     HorizontalAlignment="Left"
