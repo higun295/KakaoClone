@@ -43,7 +43,7 @@
                                 <james:JamesGrid Columns="*"
                                                  Rows="Auto, Auto">
                                     <based:PlaceHolderTextBox PlaceHolderText="Email" />
-                                    <based:PlaceHolderTextBox PlaceHolderText="Password" />
+                                    <based:PlaceHolderPasswordBox PlaceHolderText="Password" />
                                 </james:JamesGrid>
                             </Border>
 
