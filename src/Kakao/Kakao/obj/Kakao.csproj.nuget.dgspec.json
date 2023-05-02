@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao\\Kakao.csproj": {}
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao\\Kakao.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj",
         "projectName": "Kakao.Chats",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Chats\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Chats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -28,7 +27,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -37,8 +35,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               }
             }
           }
@@ -77,26 +75,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
         "projectName": "Kakao.Core",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -105,7 +102,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -144,26 +140,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
         "projectName": "Kakao.Forms",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Forms\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Forms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -172,7 +167,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -181,8 +175,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               }
             }
           }
@@ -221,26 +215,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
         "projectName": "Kakao.Friends",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Friends\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -249,7 +242,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -258,8 +250,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               }
             }
           }
@@ -298,26 +290,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj",
         "projectName": "Kakao.LayoutSupport",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.LayoutSupport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -326,7 +317,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -365,26 +355,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
         "projectName": "Kakao.Login",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Login\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -393,7 +382,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -402,11 +390,11 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               },
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.LayoutSupport\\Kakao.LayoutSupport.csproj"
               }
             }
           }
@@ -445,26 +433,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj",
         "projectName": "Kakao.Main",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -473,7 +460,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -482,8 +468,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               }
             }
           }
@@ -522,26 +508,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.More\\Kakao.More.csproj",
         "projectName": "Kakao.More",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.More\\Kakao.More.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.More\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -550,7 +535,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -559,8 +543,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               }
             }
           }
@@ -599,26 +583,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao\\Kakao.csproj": {
+    "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao\\Kakao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao\\Kakao.csproj",
+        "projectUniqueName": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao\\Kakao.csproj",
         "projectName": "Kakao",
-        "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao\\Kakao.csproj",
-        "packagesPath": "C:\\Users\\higun\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao\\obj\\",
+        "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao\\Kakao.csproj",
+        "packagesPath": "C:\\Users\\DLIT\\.nuget\\packages\\",
+        "outputPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\higun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Users\\DLIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -627,7 +610,6 @@
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -636,26 +618,26 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Chats\\Kakao.Chats.csproj"
               },
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
               },
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Forms\\Kakao.Forms.csproj"
               },
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends\\Kakao.Friends.csproj"
               },
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Login\\Kakao.Login.csproj"
               },
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Main\\Kakao.Main.csproj"
               },
-              "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
-                "projectPath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj"
+              "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.More\\Kakao.More.csproj": {
+                "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.More\\Kakao.More.csproj"
               }
             }
           }
@@ -694,7 +676,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

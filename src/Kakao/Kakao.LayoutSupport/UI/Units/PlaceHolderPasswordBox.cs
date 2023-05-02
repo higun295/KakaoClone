@@ -22,6 +22,7 @@ namespace Kakao.LayoutSupport.UI.Units
         {
             base.OnApplyTemplate();
 
+
             if (GetTemplateChild("PART_PasswordBox") is PasswordBox pwd)
             {
                 pwd.PasswordChanged += Pwd_PasswordChanged;
