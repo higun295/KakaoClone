@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace Kakao.Friends.Birth.UI.Units
+namespace Kakao.Friends.Favorites.UI.Units
 {
-    public class BirthdaysBox : FriendsBox
+    public class FavoriteBox : FriendsBox
     {
         protected override DependencyObject GetContainerForItemOverride()
         {
-            return new BirthdaysBoxItem();
+            return new FavoriteBoxItem();
         }
     }
 }

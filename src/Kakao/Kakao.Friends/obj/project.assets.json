@@ -200,6 +200,22 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Kakao.Friends.Favorites/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Friends.Favorites.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Friends.Favorites.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Kakao.LayoutSupport/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -507,6 +523,11 @@
       "path": "../Kakao.Friends.Birth/Kakao.Friends.Birth.csproj",
       "msbuildProject": "../Kakao.Friends.Birth/Kakao.Friends.Birth.csproj"
     },
+    "Kakao.Friends.Favorites/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Friends.Favorites/Kakao.Friends.Favorites.csproj",
+      "msbuildProject": "../Kakao.Friends.Favorites/Kakao.Friends.Favorites.csproj"
+    },
     "Kakao.LayoutSupport/1.0.0": {
       "type": "project",
       "path": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj",
@@ -517,7 +538,8 @@
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.8",
       "Kakao.Core >= 1.0.0",
-      "Kakao.Friends.Birth >= 1.0.0"
+      "Kakao.Friends.Birth >= 1.0.0",
+      "Kakao.Friends.Favorites >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -561,6 +583,9 @@
             },
             "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends.Birth\\Kakao.Friends.Birth.csproj": {
               "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends.Birth\\Kakao.Friends.Birth.csproj"
+            },
+            "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends.Favorites\\Kakao.Friends.Favorites.csproj": {
+              "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends.Favorites\\Kakao.Friends.Favorites.csproj"
             }
           }
         }

@@ -11,12 +11,21 @@
                             Background="{TemplateBinding Background}"
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
-                        <james:JamesGrid Columns="*"
+                        <james:JamesGrid Columns="*, Auto"
                                          Rows="Auto, Auto">
-                            <TextBlock Text="Friends With Birthday" />
-                            <ItemsPresenter />
+                            <TextBlock Text="{TemplateBinding Tag}" />
+                            <CheckBox x:Name="expand"
+                                      Content="Toggle" />
+                            <ItemsPresenter x:Name="items"
+                                            Grid.ColumnSpan="2" />
                         </james:JamesGrid>
                     </Border>
+                    <ControlTemplate.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=expand, Path=IsChecked}"
+                                     Value="True">
+                            <Setter TargetName="items" Property="Visibility" Value="Collapsed" />
+                        </DataTrigger>
+                    </ControlTemplate.Triggers>
                 </ControlTemplate>
             </Setter.Value>
         </Setter>

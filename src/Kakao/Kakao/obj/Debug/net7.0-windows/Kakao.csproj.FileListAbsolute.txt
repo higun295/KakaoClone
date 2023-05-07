@@ -82,3 +82,5 @@ D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-wind
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.LayoutSupport.pdb
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Birth.dll
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Birth.pdb
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Favorites.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Favorites.pdb
