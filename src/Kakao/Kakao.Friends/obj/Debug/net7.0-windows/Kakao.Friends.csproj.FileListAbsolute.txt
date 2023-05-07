@@ -40,3 +40,7 @@ C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\Ka
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\refint\Kakao.Friends.dll
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\Kakao.Friends.pdb
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\ref\Kakao.Friends.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Friends.Birth.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.LayoutSupport.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.Friends.Birth.pdb
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Friends\bin\Debug\net7.0-windows\Kakao.LayoutSupport.pdb

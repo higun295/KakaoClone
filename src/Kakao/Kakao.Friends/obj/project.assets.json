@@ -183,6 +183,38 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Kakao.Friends.Birth/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Kakao.LayoutSupport": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.Friends.Birth.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.Friends.Birth.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Kakao.LayoutSupport/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Jamesnet.Wpf": "1.0.0.8"
+        },
+        "compile": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kakao.LayoutSupport.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -469,12 +501,23 @@
       "type": "project",
       "path": "../Kakao.Core/Kakao.Core.csproj",
       "msbuildProject": "../Kakao.Core/Kakao.Core.csproj"
+    },
+    "Kakao.Friends.Birth/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.Friends.Birth/Kakao.Friends.Birth.csproj",
+      "msbuildProject": "../Kakao.Friends.Birth/Kakao.Friends.Birth.csproj"
+    },
+    "Kakao.LayoutSupport/1.0.0": {
+      "type": "project",
+      "path": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj",
+      "msbuildProject": "../Kakao.LayoutSupport/Kakao.LayoutSupport.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "Jamesnet.Wpf >= 1.0.0.8",
-      "Kakao.Core >= 1.0.0"
+      "Kakao.Core >= 1.0.0",
+      "Kakao.Friends.Birth >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -515,6 +558,9 @@
           "projectReferences": {
             "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj": {
               "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj"
+            },
+            "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends.Birth\\Kakao.Friends.Birth.csproj": {
+              "projectPath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Friends.Birth\\Kakao.Friends.Birth.csproj"
             }
           }
         }

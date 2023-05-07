@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Forms\obj\Debug\net7.0-windows\
 Kakao.Forms
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 2-1424066087
 
 3388858047
-208395276548
+208-350360825
 Themes\Generic.xaml;Themes\Views\KakaoWindow.xaml;
 
 False

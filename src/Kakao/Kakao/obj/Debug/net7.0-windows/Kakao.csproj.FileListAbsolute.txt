@@ -74,3 +74,11 @@ C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.More
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.More.pdb
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.LayoutSupport.dll
 C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.LayoutSupport.pdb
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Chats.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.LayoutSupport.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.More.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Chats.pdb
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.More.pdb
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.LayoutSupport.pdb
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Birth.dll
+D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao\bin\Debug\net7.0-windows\Kakao.Friends.Birth.pdb
