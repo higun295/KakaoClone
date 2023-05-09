@@ -1,10 +1,10 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:local="clr-namespace:Kakao.LayoutSupport">
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="/Kakao.LayoutSupport;Component/Themes/Units/PlaceHolderPasswordBox.xaml" />
         <ResourceDictionary Source="/Kakao.LayoutSupport;Component/Themes/Units/PlaceHolderTextBox.xaml" />
         <ResourceDictionary Source="/Kakao.LayoutSupport;Component/Themes/Units/TaskBarButton.xaml" />
         <ResourceDictionary Source="/Kakao.LayoutSupport;Component/Themes/Units/FriendsBox.xaml" />
+        <ResourceDictionary Source="/Kakao.LayoutSupport;Component/Themes/Units/ExpandButton.xaml" />
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
