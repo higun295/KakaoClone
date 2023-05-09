@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 208-350360825
 Themes\Generic.xaml;Themes\Units\VerticalMenuList.xaml;Themes\Units\VerticalMenuListItem.xaml;Themes\Views\MainContent.xaml;
 
-False
+True
 
