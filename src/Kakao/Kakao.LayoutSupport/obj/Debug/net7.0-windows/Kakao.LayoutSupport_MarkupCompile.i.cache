@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 2071306209639
 Themes\Generic.xaml;Themes\Units\ExpandButton.xaml;Themes\Units\FriendsBox.xaml;Themes\Units\PlaceHolderPasswordBox.xaml;Themes\Units\PlaceHolderTextBox.xaml;Themes\Units\TaskBarButton.xaml;
 
-True
+False
 

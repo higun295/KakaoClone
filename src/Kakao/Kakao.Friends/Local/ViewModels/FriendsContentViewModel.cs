@@ -1,9 +1,14 @@
-﻿using CommunityToolkit.Mvvm.Input;
+﻿using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
 using Jamesnet.Wpf.Controls;
 using Jamesnet.Wpf.Mvvm;
+using Kakao.Core.Models;
 using Kakao.Core.Names;
 using Prism.Ioc;
 using Prism.Regions;
+using System;
+using System.Collections.Generic;
+using System.Windows.Documents;
 
 namespace Kakao.Friends.Local.ViewModels
 {
@@ -12,10 +17,25 @@ namespace Kakao.Friends.Local.ViewModels
         private readonly IRegionManager _regionManager;
         private readonly IContainerProvider _containerProvider;
 
+        [ObservableProperty]
+        private List<FriendsModel> _favorites;
+
         public FriendsContentViewModel(IRegionManager regionManager, IContainerProvider containerProvider)
         {
             _regionManager = regionManager;
             _containerProvider = containerProvider;
+
+            Favorites = GetFavorites();
+        }
+
+        private List<FriendsModel> GetFavorites()
+        {
+            List<FriendsModel> source = new();
+            source.Add(new FriendsModel().DataGen(1, "James"));
+            source.Add(new FriendsModel().DataGen(2, "Vicky"));
+            source.Add(new FriendsModel().DataGen(3, "Harry"));
+
+            return source;
         }
 
         [RelayCommand]

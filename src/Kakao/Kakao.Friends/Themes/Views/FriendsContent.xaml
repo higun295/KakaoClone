@@ -23,11 +23,8 @@
                                 <birth:BirthdaysBoxItem>asdfasdfasdf</birth:BirthdaysBoxItem>
                             </birth:BirthdaysBox>
 
-                            <favorite:FavoriteBox Tag="Favorites">
-                                <favorite:FavoriteBoxItem>asdfasdfasdf</favorite:FavoriteBoxItem>
-                                <favorite:FavoriteBoxItem>asdfasdfasdf</favorite:FavoriteBoxItem>
-                                <favorite:FavoriteBoxItem>asdfasdfasdf</favorite:FavoriteBoxItem>
-                            </favorite:FavoriteBox>
+                            <favorite:FavoriteBox ItemsSource="{Binding Favorites}"
+                                                  Tag="Favorites" />
 
                             <Button Margin="10"
                                     Padding="8,4,8,4"

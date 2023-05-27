@@ -7,7 +7,8 @@
         <Setter Property="Template">
             <Setter.Value>
                 <ControlTemplate>
-                    <TextBlock Text="123123" />
+                    <TextBlock Padding="10"
+                               Text="{Binding Name}" />
                 </ControlTemplate>
             </Setter.Value>
         </Setter>
@@ -22,9 +23,7 @@
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <RadioButton GroupName="rd1"
                                      IsChecked="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=IsSelected}"
-                                     Style="{StaticResource Rdo}">
-                            asdfadfadfadfasf3123232
-                        </RadioButton>
+                                     Style="{StaticResource Rdo}" />
                     </Border>
                     <ControlTemplate.Triggers>
                         <Trigger Property="IsSelected" Value="True">
