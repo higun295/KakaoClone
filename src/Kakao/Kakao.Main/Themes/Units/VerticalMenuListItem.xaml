@@ -17,10 +17,12 @@
     <Style TargetType="{x:Type units:VerticalMenuListItem}">
         <Setter Property="Background" Value="#ECECED" />
         <Setter Property="Foreground" Value="#ACADB1" />
+        <Setter Property="Padding" Value="10" />
         <Setter Property="Template">
             <Setter.Value>
                 <ControlTemplate TargetType="{x:Type units:VerticalMenuListItem}">
-                    <Border Background="{TemplateBinding Background}"
+                    <Border Padding="{TemplateBinding Padding}"
+                            Background="{TemplateBinding Background}"
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <Viewbox Width="20"
@@ -31,10 +33,10 @@
                     </Border>
                     <ControlTemplate.Triggers>
                         <Trigger Property="IsMouseOver" Value="True">
-                            <Setter Property="Background" Value="#FF97989C" />
+                            <Setter Property="Foreground" Value="#97989C" />
                         </Trigger>
                         <Trigger Property="IsSelected" Value="True">
-                            <Setter Property="Background" Value="#343740" />
+                            <Setter Property="Foreground" Value="#343740" />
                         </Trigger>
                         <DataTrigger Binding="{Binding Id}"
                                      Value="Chats">
