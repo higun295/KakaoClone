@@ -39,6 +39,12 @@ namespace Kakao.Friends.Local.ViewModels
         }
 
         [RelayCommand]
+        private void DoubleClick(object data)
+        {
+
+        }
+
+        [RelayCommand]
         private void Logout()
         {
             IRegion mainRegion = _regionManager.Regions[RegionNameManager.MainRegion];

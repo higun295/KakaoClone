@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 208-350360825
 Themes\Generic.xaml;Themes\Views\ChatsContent.xaml;
 
-False
+True
 

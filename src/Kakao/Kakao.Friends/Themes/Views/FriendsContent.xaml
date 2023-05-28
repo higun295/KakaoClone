@@ -23,7 +23,8 @@
                                 <birth:BirthdaysBoxItem>asdfasdfasdf</birth:BirthdaysBoxItem>
                             </birth:BirthdaysBox>
 
-                            <favorite:FavoriteBox ItemsSource="{Binding Favorites}"
+                            <favorite:FavoriteBox DoubleClickCommand="{Binding DoubleClickCommand}"
+                                                  ItemsSource="{Binding Favorites}"
                                                   Tag="Favorites" />
 
                             <Button Margin="10"
