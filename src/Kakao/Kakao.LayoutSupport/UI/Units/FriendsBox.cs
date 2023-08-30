@@ -26,7 +26,7 @@ namespace Kakao.LayoutSupport.UI.Units
 
         public FriendsBox()
         {
-
+             
         }
 
         protected override void OnMouseDoubleClick(MouseButtonEventArgs e)
