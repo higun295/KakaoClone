@@ -1,7 +1,6 @@
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.deps.json
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.dll
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\bin\Debug\net7.0-windows\Kakao.Core.pdb
-D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.csproj.AssemblyReference.cache
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.AssemblyInfoInputs.cache
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Core\obj\Debug\net7.0-windows\Kakao.Core.AssemblyInfo.cs
