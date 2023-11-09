@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.Friends\obj\Debug\net7.0-windows\
 Kakao.Friends
 none
 false
@@ -13,7 +13,11 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 2-521645242
 
 5-1289031609
+<<<<<<< HEAD
 211-623475266
+=======
+211-2097622805
+>>>>>>> 2745cc86e334cf90369600c880bf31114b724cca
 Themes\Generic.xaml;Themes\Views\FriendsContent.xaml;
 
 False

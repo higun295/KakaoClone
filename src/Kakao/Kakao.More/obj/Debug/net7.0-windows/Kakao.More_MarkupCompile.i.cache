@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.More\obj\Debug\net7.0-windows\
 Kakao.More
 none
 false
@@ -13,7 +13,11 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 2-1709144663
 
 5-599217122
+<<<<<<< HEAD
 208-725012430
+=======
+208395276548
+>>>>>>> 2745cc86e334cf90369600c880bf31114b724cca
 Themes\Generic.xaml;Themes\Views\MoreContent.xaml;
 
 True

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\
 Kakao.LayoutSupport
 none
 false
@@ -13,7 +13,11 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 6-557286430
 
 6-921109191
+<<<<<<< HEAD
 207887554152
+=======
+2071275680172
+>>>>>>> 2745cc86e334cf90369600c880bf31114b724cca
 Themes\Generic.xaml;Themes\Units\ExpandButton.xaml;Themes\Units\FriendsBox.xaml;Themes\Units\PlaceHolderPasswordBox.xaml;Themes\Units\PlaceHolderTextBox.xaml;Themes\Units\TaskBarButton.xaml;
 
 False

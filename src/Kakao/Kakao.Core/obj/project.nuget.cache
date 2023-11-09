@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "1wxRFl7nGPYEIxIds4G64oK6PSPZcdkDnd9S3utRYzSLOUIjJMSgM03Dzw2bKBsuzN0GP5ZfyevNPRc55iAi0w==",
+=======
+  "dgSpecHash": "1z2+B9OOogujPIfCpWeXtk8VP0G00rMEmCk3cCoI5hxE87SCu9sWrGTrc+CEGxYh/d42p2Ti+tq1Pk+9zFN6LA==",
+>>>>>>> 2745cc86e334cf90369600c880bf31114b724cca
   "success": true,
-  "projectFilePath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
+  "projectFilePath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.Core\\Kakao.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

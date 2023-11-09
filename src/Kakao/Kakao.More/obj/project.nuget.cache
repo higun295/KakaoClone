@@ -1,20 +1,24 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "RPpJf7fyoK8iLUyQbV4j4oMDk60sSyA6f0GFJBCiAO1xOA4E9sjAmbyLYvUwqWzGE9t8us+bG/QG+Q9TP1vY2A==",
+=======
+  "dgSpecHash": "aN9GfKRiqho1eP8V0jSCMg7ksy7bpKeIulfIu/TjEMECycOA2lQOfpORSme1Uahf3w9jE4SrvXOiN4leGk0aQg==",
+>>>>>>> 2745cc86e334cf90369600c880bf31114b724cca
   "success": true,
-  "projectFilePath": "D:\\01_Projects\\SELF_PROJECT\\WPF\\KakaoClone\\src\\Kakao\\Kakao.More\\Kakao.More.csproj",
+  "projectFilePath": "C:\\Projects\\WPF\\01_KAKAOTALK\\src\\Kakao\\Kakao.More\\Kakao.More.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DLIT\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\jamesnet.wpf\\1.0.0.8\\jamesnet.wpf.1.0.0.8.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\prism.unity\\8.1.97\\prism.unity.8.1.97.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
-    "C:\\Users\\DLIT\\.nuget\\packages\\wpfautogrid.core\\1.5.1\\wpfautogrid.core.1.5.1.nupkg.sha512"
+    "C:\\Users\\higun\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\jamesnet.wpf\\1.0.0.8\\jamesnet.wpf.1.0.0.8.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\prism.unity\\8.1.97\\prism.unity.8.1.97.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
+    "C:\\Users\\higun\\.nuget\\packages\\wpfautogrid.core\\1.5.1\\wpfautogrid.core.1.5.1.nupkg.sha512"
   ],
   "logs": []
 }

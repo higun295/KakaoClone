@@ -40,3 +40,5 @@ D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.LayoutSupport\obj\Deb
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\ref\Kakao.LayoutSupport.dll
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\FriendsBox.baml
 D:\01_Projects\SELF_PROJECT\WPF\KakaoClone\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\ExpandButton.baml
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\ExpandButton.baml
+C:\Projects\WPF\01_KAKAOTALK\src\Kakao\Kakao.LayoutSupport\obj\Debug\net7.0-windows\Themes\Units\FriendsBox.baml
